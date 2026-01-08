@@ -1,0 +1,6333 @@
+{
+  "session_info": {
+    "start_time": "2026-01-08 18:51:38",
+    "end_time": "2026-01-08 18:53:16",
+    "duration_seconds": 97.01,
+    "total_samples": 485
+  },
+  "anchor_positions": {
+    "0x4": [
+      0.0,
+      0.0
+    ],
+    "0x6": [
+      300.0,
+      300.0
+    ],
+    "0x7": [
+      450.0,
+      150.0
+    ],
+    "0x9": [
+      0.0,
+      300.0
+    ],
+    "0xa": [
+      300.0,
+      0.0
+    ]
+  },
+  "measurements": [
+    {
+      "sample": 1,
+      "timestamp": "18:51:39.257",
+      "frame_number": 1,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 281,
+        "0x7": 363,
+        "0x9": 228,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 2,
+      "timestamp": "18:51:39.457",
+      "frame_number": 2,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 284,
+        "0x7": 364,
+        "0x9": 230,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 3,
+      "timestamp": "18:51:39.657",
+      "frame_number": 3,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 287,
+        "0x7": 362,
+        "0x9": 231,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 4,
+      "timestamp": "18:51:39.857",
+      "frame_number": 4,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 283,
+        "0x7": 365,
+        "0x9": 229,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 5,
+      "timestamp": "18:51:40.057",
+      "frame_number": 5,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 282,
+        "0x7": 362,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 6,
+      "timestamp": "18:51:40.257",
+      "frame_number": 6,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 7,
+      "timestamp": "18:51:40.457",
+      "frame_number": 7,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 140,
+        "0x6": 284,
+        "0x7": 357,
+        "0x9": 231,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 8,
+      "timestamp": "18:51:40.657",
+      "frame_number": 8,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 281,
+        "0x7": 361,
+        "0x9": 232,
+        "0xa": 236
+      }
+    },
+    {
+      "sample": 9,
+      "timestamp": "18:51:40.857",
+      "frame_number": 9,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 282,
+        "0x7": 364,
+        "0x9": 219,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 10,
+      "timestamp": "18:51:41.058",
+      "frame_number": 10,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 221,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 11,
+      "timestamp": "18:51:41.257",
+      "frame_number": 11,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 139,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 231,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 12,
+      "timestamp": "18:51:41.458",
+      "frame_number": 12,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 237,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 13,
+      "timestamp": "18:51:41.657",
+      "frame_number": 13,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 282,
+        "0x7": 353,
+        "0x9": 235,
+        "0xa": 235
+      }
+    },
+    {
+      "sample": 14,
+      "timestamp": "18:51:41.857",
+      "frame_number": 14,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 361,
+        "0x9": 229,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 15,
+      "timestamp": "18:51:42.057",
+      "frame_number": 15,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 362,
+        "0x9": 230,
+        "0xa": 235
+      }
+    },
+    {
+      "sample": 16,
+      "timestamp": "18:51:42.257",
+      "frame_number": 16,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 234,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 17,
+      "timestamp": "18:51:42.456",
+      "frame_number": 17,
+      "num_anchors": 4,
+      "distances": {
+        "0x4": 136,
+        "0x6": 283,
+        "0x7": 357,
+        "0x9": 229
+      }
+    },
+    {
+      "sample": 18,
+      "timestamp": "18:51:42.657",
+      "frame_number": 18,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 232,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 19,
+      "timestamp": "18:51:42.856",
+      "frame_number": 19,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 291,
+        "0x7": 349,
+        "0x9": 237,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 20,
+      "timestamp": "18:51:43.056",
+      "frame_number": 20,
+      "num_anchors": 4,
+      "distances": {
+        "0x4": 137,
+        "0x6": 289,
+        "0x7": 358,
+        "0x9": 240
+      }
+    },
+    {
+      "sample": 21,
+      "timestamp": "18:51:43.257",
+      "frame_number": 21,
+      "num_anchors": 4,
+      "distances": {
+        "0x6": 288,
+        "0x7": 351,
+        "0x9": 228,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 22,
+      "timestamp": "18:51:43.457",
+      "frame_number": 22,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 343,
+        "0x9": 232,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 23,
+      "timestamp": "18:51:43.657",
+      "frame_number": 23,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 345,
+        "0x9": 231,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 24,
+      "timestamp": "18:51:43.857",
+      "frame_number": 24,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 233,
+        "0xa": 225
+      }
+    },
+    {
+      "sample": 25,
+      "timestamp": "18:51:44.057",
+      "frame_number": 25,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 290,
+        "0x7": 368,
+        "0x9": 236,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 26,
+      "timestamp": "18:51:44.257",
+      "frame_number": 26,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 289,
+        "0x7": 358,
+        "0x9": 231,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 27,
+      "timestamp": "18:51:44.457",
+      "frame_number": 27,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 289,
+        "0x7": 357,
+        "0x9": 231,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 28,
+      "timestamp": "18:51:44.657",
+      "frame_number": 28,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 289,
+        "0x7": 357,
+        "0x9": 235,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 29,
+      "timestamp": "18:51:44.857",
+      "frame_number": 29,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 285,
+        "0x7": 361,
+        "0x9": 229,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 30,
+      "timestamp": "18:51:45.057",
+      "frame_number": 30,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 234,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 31,
+      "timestamp": "18:51:45.256",
+      "frame_number": 31,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 32,
+      "timestamp": "18:51:45.457",
+      "frame_number": 32,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 220,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 33,
+      "timestamp": "18:51:45.657",
+      "frame_number": 33,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 124,
+        "0x6": 288,
+        "0x7": 359,
+        "0x9": 220,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 34,
+      "timestamp": "18:51:45.857",
+      "frame_number": 34,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 35,
+      "timestamp": "18:51:46.057",
+      "frame_number": 35,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 228,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 36,
+      "timestamp": "18:51:46.257",
+      "frame_number": 36,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 284,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 37,
+      "timestamp": "18:51:46.457",
+      "frame_number": 37,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 284,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 38,
+      "timestamp": "18:51:46.657",
+      "frame_number": 38,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 39,
+      "timestamp": "18:51:46.857",
+      "frame_number": 39,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 360,
+        "0x9": 222,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 40,
+      "timestamp": "18:51:47.056",
+      "frame_number": 40,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 41,
+      "timestamp": "18:51:47.257",
+      "frame_number": 41,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 227
+      }
+    },
+    {
+      "sample": 42,
+      "timestamp": "18:51:47.457",
+      "frame_number": 42,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 43,
+      "timestamp": "18:51:47.657",
+      "frame_number": 43,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 361,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 44,
+      "timestamp": "18:51:47.857",
+      "frame_number": 44,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 45,
+      "timestamp": "18:51:48.056",
+      "frame_number": 45,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 284,
+        "0x7": 361,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 46,
+      "timestamp": "18:51:48.257",
+      "frame_number": 46,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 353,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 47,
+      "timestamp": "18:51:48.456",
+      "frame_number": 47,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 48,
+      "timestamp": "18:51:48.657",
+      "frame_number": 48,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 285,
+        "0x7": 360,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 49,
+      "timestamp": "18:51:48.857",
+      "frame_number": 49,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 282,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 50,
+      "timestamp": "18:51:49.056",
+      "frame_number": 50,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 51,
+      "timestamp": "18:51:49.257",
+      "frame_number": 51,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 52,
+      "timestamp": "18:51:49.457",
+      "frame_number": 52,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 228,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 53,
+      "timestamp": "18:51:49.657",
+      "frame_number": 53,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 290,
+        "0x7": 360,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 54,
+      "timestamp": "18:51:49.857",
+      "frame_number": 54,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 55,
+      "timestamp": "18:51:50.056",
+      "frame_number": 55,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 124,
+        "0x6": 283,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 56,
+      "timestamp": "18:51:50.257",
+      "frame_number": 56,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 287,
+        "0x7": 360,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 57,
+      "timestamp": "18:51:50.456",
+      "frame_number": 57,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 58,
+      "timestamp": "18:51:50.657",
+      "frame_number": 58,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 222,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 59,
+      "timestamp": "18:51:50.857",
+      "frame_number": 59,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 360,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 60,
+      "timestamp": "18:51:51.056",
+      "frame_number": 60,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 61,
+      "timestamp": "18:51:51.256",
+      "frame_number": 61,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 62,
+      "timestamp": "18:51:51.456",
+      "frame_number": 62,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 63,
+      "timestamp": "18:51:51.657",
+      "frame_number": 63,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 353,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 64,
+      "timestamp": "18:51:51.857",
+      "frame_number": 64,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 65,
+      "timestamp": "18:51:52.057",
+      "frame_number": 65,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 66,
+      "timestamp": "18:51:52.257",
+      "frame_number": 66,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 283,
+        "0x7": 359,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 67,
+      "timestamp": "18:51:52.456",
+      "frame_number": 67,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 68,
+      "timestamp": "18:51:52.656",
+      "frame_number": 68,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 69,
+      "timestamp": "18:51:52.857",
+      "frame_number": 69,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 70,
+      "timestamp": "18:51:53.056",
+      "frame_number": 70,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 71,
+      "timestamp": "18:51:53.257",
+      "frame_number": 71,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 72,
+      "timestamp": "18:51:53.456",
+      "frame_number": 72,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 220,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 73,
+      "timestamp": "18:51:53.656",
+      "frame_number": 73,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 74,
+      "timestamp": "18:51:53.857",
+      "frame_number": 74,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 75,
+      "timestamp": "18:51:54.056",
+      "frame_number": 75,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 76,
+      "timestamp": "18:51:54.256",
+      "frame_number": 76,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 77,
+      "timestamp": "18:51:54.456",
+      "frame_number": 77,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 221,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 78,
+      "timestamp": "18:51:54.656",
+      "frame_number": 78,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 79,
+      "timestamp": "18:51:54.857",
+      "frame_number": 79,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 80,
+      "timestamp": "18:51:55.056",
+      "frame_number": 80,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 81,
+      "timestamp": "18:51:55.257",
+      "frame_number": 81,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 283,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 82,
+      "timestamp": "18:51:55.456",
+      "frame_number": 82,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 288,
+        "0x7": 359,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 83,
+      "timestamp": "18:51:55.657",
+      "frame_number": 83,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 84,
+      "timestamp": "18:51:55.856",
+      "frame_number": 84,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 85,
+      "timestamp": "18:51:56.056",
+      "frame_number": 85,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 86,
+      "timestamp": "18:51:56.257",
+      "frame_number": 86,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 87,
+      "timestamp": "18:51:56.456",
+      "frame_number": 87,
+      "num_anchors": 4,
+      "distances": {
+        "0x4": 129,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 88,
+      "timestamp": "18:51:56.657",
+      "frame_number": 88,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 89,
+      "timestamp": "18:51:56.856",
+      "frame_number": 89,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 90,
+      "timestamp": "18:51:57.056",
+      "frame_number": 90,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 91,
+      "timestamp": "18:51:57.257",
+      "frame_number": 91,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 289,
+        "0x7": 359,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 92,
+      "timestamp": "18:51:57.456",
+      "frame_number": 92,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 93,
+      "timestamp": "18:51:57.656",
+      "frame_number": 93,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 94,
+      "timestamp": "18:51:57.855",
+      "frame_number": 94,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 229,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 95,
+      "timestamp": "18:51:58.056",
+      "frame_number": 95,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 96,
+      "timestamp": "18:51:58.257",
+      "frame_number": 96,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 97,
+      "timestamp": "18:51:58.456",
+      "frame_number": 97,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 283,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 98,
+      "timestamp": "18:51:58.656",
+      "frame_number": 98,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 221,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 99,
+      "timestamp": "18:51:58.856",
+      "frame_number": 99,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 100,
+      "timestamp": "18:51:59.056",
+      "frame_number": 100,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 284,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 101,
+      "timestamp": "18:51:59.257",
+      "frame_number": 101,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 102,
+      "timestamp": "18:51:59.456",
+      "frame_number": 102,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 103,
+      "timestamp": "18:51:59.656",
+      "frame_number": 103,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 104,
+      "timestamp": "18:51:59.856",
+      "frame_number": 104,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 105,
+      "timestamp": "18:52:00.056",
+      "frame_number": 105,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 106,
+      "timestamp": "18:52:00.256",
+      "frame_number": 106,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 107,
+      "timestamp": "18:52:00.455",
+      "frame_number": 107,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 289,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 108,
+      "timestamp": "18:52:00.656",
+      "frame_number": 108,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 109,
+      "timestamp": "18:52:00.856",
+      "frame_number": 109,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 110,
+      "timestamp": "18:52:01.056",
+      "frame_number": 110,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 111,
+      "timestamp": "18:52:01.257",
+      "frame_number": 111,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 221,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 112,
+      "timestamp": "18:52:01.456",
+      "frame_number": 112,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 359,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 113,
+      "timestamp": "18:52:01.656",
+      "frame_number": 113,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 114,
+      "timestamp": "18:52:01.856",
+      "frame_number": 114,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 115,
+      "timestamp": "18:52:02.056",
+      "frame_number": 115,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 116,
+      "timestamp": "18:52:02.256",
+      "frame_number": 116,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 117,
+      "timestamp": "18:52:02.456",
+      "frame_number": 117,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 118,
+      "timestamp": "18:52:02.656",
+      "frame_number": 118,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 119,
+      "timestamp": "18:52:02.855",
+      "frame_number": 119,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 120,
+      "timestamp": "18:52:03.056",
+      "frame_number": 120,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 360,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 121,
+      "timestamp": "18:52:03.255",
+      "frame_number": 121,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 122,
+      "timestamp": "18:52:03.456",
+      "frame_number": 122,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 282,
+        "0x7": 356,
+        "0x9": 220,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 123,
+      "timestamp": "18:52:03.656",
+      "frame_number": 123,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 124,
+      "timestamp": "18:52:03.856",
+      "frame_number": 124,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 289,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 125,
+      "timestamp": "18:52:04.056",
+      "frame_number": 125,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 126,
+      "timestamp": "18:52:04.255",
+      "frame_number": 126,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 127,
+      "timestamp": "18:52:04.455",
+      "frame_number": 127,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 128,
+      "timestamp": "18:52:04.656",
+      "frame_number": 128,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 129,
+      "timestamp": "18:52:04.856",
+      "frame_number": 129,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 130,
+      "timestamp": "18:52:05.056",
+      "frame_number": 130,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 289,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 131,
+      "timestamp": "18:52:05.255",
+      "frame_number": 131,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 132,
+      "timestamp": "18:52:05.456",
+      "frame_number": 132,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 124,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 133,
+      "timestamp": "18:52:05.656",
+      "frame_number": 133,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 289,
+        "0x7": 355,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 134,
+      "timestamp": "18:52:05.855",
+      "frame_number": 134,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 135,
+      "timestamp": "18:52:06.056",
+      "frame_number": 135,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 354,
+        "0x9": 225,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 136,
+      "timestamp": "18:52:06.255",
+      "frame_number": 136,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 137,
+      "timestamp": "18:52:06.456",
+      "frame_number": 137,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 138,
+      "timestamp": "18:52:06.656",
+      "frame_number": 138,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 139,
+      "timestamp": "18:52:06.855",
+      "frame_number": 139,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 140,
+      "timestamp": "18:52:07.056",
+      "frame_number": 140,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 141,
+      "timestamp": "18:52:07.255",
+      "frame_number": 141,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 142,
+      "timestamp": "18:52:07.456",
+      "frame_number": 142,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 143,
+      "timestamp": "18:52:07.656",
+      "frame_number": 143,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 144,
+      "timestamp": "18:52:07.856",
+      "frame_number": 144,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 145,
+      "timestamp": "18:52:08.056",
+      "frame_number": 145,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 146,
+      "timestamp": "18:52:08.256",
+      "frame_number": 146,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 147,
+      "timestamp": "18:52:08.456",
+      "frame_number": 147,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 148,
+      "timestamp": "18:52:08.656",
+      "frame_number": 148,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 149,
+      "timestamp": "18:52:08.856",
+      "frame_number": 149,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 362,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 150,
+      "timestamp": "18:52:09.056",
+      "frame_number": 150,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 151,
+      "timestamp": "18:52:09.255",
+      "frame_number": 151,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 361,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 152,
+      "timestamp": "18:52:09.456",
+      "frame_number": 152,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 284,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 153,
+      "timestamp": "18:52:09.655",
+      "frame_number": 153,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 154,
+      "timestamp": "18:52:09.855",
+      "frame_number": 154,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 155,
+      "timestamp": "18:52:10.056",
+      "frame_number": 155,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 353,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 156,
+      "timestamp": "18:52:10.255",
+      "frame_number": 156,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 157,
+      "timestamp": "18:52:10.456",
+      "frame_number": 157,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 158,
+      "timestamp": "18:52:10.655",
+      "frame_number": 158,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 285,
+        "0x7": 353,
+        "0x9": 220,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 159,
+      "timestamp": "18:52:10.855",
+      "frame_number": 159,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 160,
+      "timestamp": "18:52:11.055",
+      "frame_number": 160,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 161,
+      "timestamp": "18:52:11.255",
+      "frame_number": 161,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 284,
+        "0x7": 360,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 162,
+      "timestamp": "18:52:11.456",
+      "frame_number": 162,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 354,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 163,
+      "timestamp": "18:52:11.655",
+      "frame_number": 163,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 164,
+      "timestamp": "18:52:11.855",
+      "frame_number": 164,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 165,
+      "timestamp": "18:52:12.056",
+      "frame_number": 165,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 361,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 166,
+      "timestamp": "18:52:12.255",
+      "frame_number": 166,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 167,
+      "timestamp": "18:52:12.456",
+      "frame_number": 167,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 227,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 168,
+      "timestamp": "18:52:12.654",
+      "frame_number": 168,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 221,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 169,
+      "timestamp": "18:52:12.856",
+      "frame_number": 169,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 170,
+      "timestamp": "18:52:13.056",
+      "frame_number": 170,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 171,
+      "timestamp": "18:52:13.255",
+      "frame_number": 171,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 222,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 172,
+      "timestamp": "18:52:13.455",
+      "frame_number": 172,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 289,
+        "0x7": 359,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 173,
+      "timestamp": "18:52:13.655",
+      "frame_number": 173,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 174,
+      "timestamp": "18:52:13.855",
+      "frame_number": 174,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 284,
+        "0x7": 359,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 175,
+      "timestamp": "18:52:14.056",
+      "frame_number": 175,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 176,
+      "timestamp": "18:52:14.255",
+      "frame_number": 176,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 360,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 177,
+      "timestamp": "18:52:14.456",
+      "frame_number": 177,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 289,
+        "0x7": 353,
+        "0x9": 221,
+        "0xa": 235
+      }
+    },
+    {
+      "sample": 178,
+      "timestamp": "18:52:14.654",
+      "frame_number": 178,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 288,
+        "0x7": 359,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 179,
+      "timestamp": "18:52:14.855",
+      "frame_number": 179,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 180,
+      "timestamp": "18:52:15.055",
+      "frame_number": 180,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 181,
+      "timestamp": "18:52:15.255",
+      "frame_number": 181,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 285,
+        "0x7": 355,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 182,
+      "timestamp": "18:52:15.456",
+      "frame_number": 182,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 287,
+        "0x7": 362,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 183,
+      "timestamp": "18:52:15.655",
+      "frame_number": 183,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 184,
+      "timestamp": "18:52:15.855",
+      "frame_number": 184,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 362,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 185,
+      "timestamp": "18:52:16.055",
+      "frame_number": 185,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 285,
+        "0x7": 354,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 186,
+      "timestamp": "18:52:16.255",
+      "frame_number": 186,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 187,
+      "timestamp": "18:52:16.455",
+      "frame_number": 187,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 188,
+      "timestamp": "18:52:16.655",
+      "frame_number": 188,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 289,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 189,
+      "timestamp": "18:52:16.855",
+      "frame_number": 189,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 285,
+        "0x7": 360,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 190,
+      "timestamp": "18:52:17.054",
+      "frame_number": 190,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 191,
+      "timestamp": "18:52:17.255",
+      "frame_number": 191,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 359,
+        "0x9": 222,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 192,
+      "timestamp": "18:52:17.455",
+      "frame_number": 192,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 193,
+      "timestamp": "18:52:17.655",
+      "frame_number": 193,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 284,
+        "0x7": 352,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 194,
+      "timestamp": "18:52:17.855",
+      "frame_number": 194,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 235
+      }
+    },
+    {
+      "sample": 195,
+      "timestamp": "18:52:18.055",
+      "frame_number": 195,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 285,
+        "0x7": 360,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 196,
+      "timestamp": "18:52:18.255",
+      "frame_number": 196,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 197,
+      "timestamp": "18:52:18.455",
+      "frame_number": 197,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 198,
+      "timestamp": "18:52:18.655",
+      "frame_number": 198,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 362,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 199,
+      "timestamp": "18:52:18.855",
+      "frame_number": 199,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 289,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 200,
+      "timestamp": "18:52:19.055",
+      "frame_number": 200,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 288,
+        "0x7": 353,
+        "0x9": 222,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 201,
+      "timestamp": "18:52:19.255",
+      "frame_number": 201,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 285,
+        "0x7": 353,
+        "0x9": 221,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 202,
+      "timestamp": "18:52:19.455",
+      "frame_number": 202,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 124,
+        "0x6": 285,
+        "0x7": 353,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 203,
+      "timestamp": "18:52:19.655",
+      "frame_number": 203,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 204,
+      "timestamp": "18:52:19.855",
+      "frame_number": 204,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 288,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 205,
+      "timestamp": "18:52:20.054",
+      "frame_number": 205,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 361,
+        "0x9": 227,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 206,
+      "timestamp": "18:52:20.255",
+      "frame_number": 206,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 207,
+      "timestamp": "18:52:20.455",
+      "frame_number": 207,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 230,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 208,
+      "timestamp": "18:52:20.655",
+      "frame_number": 208,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 209,
+      "timestamp": "18:52:20.855",
+      "frame_number": 209,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 289,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 210,
+      "timestamp": "18:52:21.055",
+      "frame_number": 210,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 289,
+        "0x7": 355,
+        "0x9": 222,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 211,
+      "timestamp": "18:52:21.255",
+      "frame_number": 211,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 212,
+      "timestamp": "18:52:21.454",
+      "frame_number": 212,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 213,
+      "timestamp": "18:52:21.654",
+      "frame_number": 213,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 124,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 214,
+      "timestamp": "18:52:21.854",
+      "frame_number": 214,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 215,
+      "timestamp": "18:52:22.055",
+      "frame_number": 215,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 216,
+      "timestamp": "18:52:22.254",
+      "frame_number": 216,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 217,
+      "timestamp": "18:52:22.454",
+      "frame_number": 217,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 285,
+        "0x7": 355,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 218,
+      "timestamp": "18:52:22.655",
+      "frame_number": 218,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 219,
+      "timestamp": "18:52:22.855",
+      "frame_number": 219,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 220,
+      "timestamp": "18:52:23.054",
+      "frame_number": 220,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 221,
+      "timestamp": "18:52:23.255",
+      "frame_number": 221,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 222,
+      "timestamp": "18:52:23.454",
+      "frame_number": 222,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 221,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 223,
+      "timestamp": "18:52:23.654",
+      "frame_number": 223,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 224,
+      "timestamp": "18:52:23.855",
+      "frame_number": 224,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 225,
+      "timestamp": "18:52:24.054",
+      "frame_number": 225,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 289,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 226,
+      "timestamp": "18:52:24.255",
+      "frame_number": 226,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 289,
+        "0x7": 355,
+        "0x9": 221,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 227,
+      "timestamp": "18:52:24.454",
+      "frame_number": 227,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 228,
+      "timestamp": "18:52:24.654",
+      "frame_number": 228,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 229,
+      "timestamp": "18:52:24.855",
+      "frame_number": 229,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 289,
+        "0x7": 360,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 230,
+      "timestamp": "18:52:25.054",
+      "frame_number": 230,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 231,
+      "timestamp": "18:52:25.255",
+      "frame_number": 231,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 353,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 232,
+      "timestamp": "18:52:25.454",
+      "frame_number": 232,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 139,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 221,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 233,
+      "timestamp": "18:52:25.655",
+      "frame_number": 233,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 234,
+      "timestamp": "18:52:25.855",
+      "frame_number": 234,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 220,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 235,
+      "timestamp": "18:52:26.054",
+      "frame_number": 235,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 285,
+        "0x7": 355,
+        "0x9": 227,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 236,
+      "timestamp": "18:52:26.255",
+      "frame_number": 236,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 284,
+        "0x7": 352,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 237,
+      "timestamp": "18:52:26.454",
+      "frame_number": 237,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 238,
+      "timestamp": "18:52:26.655",
+      "frame_number": 238,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 239,
+      "timestamp": "18:52:26.855",
+      "frame_number": 239,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 285,
+        "0x7": 353,
+        "0x9": 221,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 240,
+      "timestamp": "18:52:27.054",
+      "frame_number": 240,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 241,
+      "timestamp": "18:52:27.254",
+      "frame_number": 241,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 242,
+      "timestamp": "18:52:27.454",
+      "frame_number": 242,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 243,
+      "timestamp": "18:52:27.655",
+      "frame_number": 243,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 244,
+      "timestamp": "18:52:27.855",
+      "frame_number": 244,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 124,
+        "0x6": 282,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 245,
+      "timestamp": "18:52:28.054",
+      "frame_number": 245,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 246,
+      "timestamp": "18:52:28.255",
+      "frame_number": 246,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 247,
+      "timestamp": "18:52:28.454",
+      "frame_number": 247,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 220,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 248,
+      "timestamp": "18:52:28.655",
+      "frame_number": 248,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 249,
+      "timestamp": "18:52:28.854",
+      "frame_number": 249,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 250,
+      "timestamp": "18:52:29.054",
+      "frame_number": 250,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 251,
+      "timestamp": "18:52:29.255",
+      "frame_number": 251,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 252,
+      "timestamp": "18:52:29.454",
+      "frame_number": 252,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 220,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 253,
+      "timestamp": "18:52:29.654",
+      "frame_number": 253,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 254,
+      "timestamp": "18:52:29.854",
+      "frame_number": 254,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 228,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 255,
+      "timestamp": "18:52:30.054",
+      "frame_number": 255,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 360,
+        "0x9": 226,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 256,
+      "timestamp": "18:52:30.255",
+      "frame_number": 256,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 257,
+      "timestamp": "18:52:30.454",
+      "frame_number": 257,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 258,
+      "timestamp": "18:52:30.655",
+      "frame_number": 258,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 259,
+      "timestamp": "18:52:30.854",
+      "frame_number": 259,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 260,
+      "timestamp": "18:52:31.054",
+      "frame_number": 260,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 261,
+      "timestamp": "18:52:31.255",
+      "frame_number": 261,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 262,
+      "timestamp": "18:52:31.454",
+      "frame_number": 262,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 263,
+      "timestamp": "18:52:31.655",
+      "frame_number": 263,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 264,
+      "timestamp": "18:52:31.855",
+      "frame_number": 264,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 265,
+      "timestamp": "18:52:32.054",
+      "frame_number": 265,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 266,
+      "timestamp": "18:52:32.255",
+      "frame_number": 266,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 355,
+        "0x9": 225,
+        "0xa": 235
+      }
+    },
+    {
+      "sample": 267,
+      "timestamp": "18:52:32.454",
+      "frame_number": 267,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 268,
+      "timestamp": "18:52:32.655",
+      "frame_number": 268,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 221,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 269,
+      "timestamp": "18:52:32.854",
+      "frame_number": 269,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 270,
+      "timestamp": "18:52:33.054",
+      "frame_number": 270,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 227,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 271,
+      "timestamp": "18:52:33.255",
+      "frame_number": 271,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 228,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 272,
+      "timestamp": "18:52:33.454",
+      "frame_number": 272,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 273,
+      "timestamp": "18:52:33.655",
+      "frame_number": 273,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 284,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 274,
+      "timestamp": "18:52:33.854",
+      "frame_number": 274,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 275,
+      "timestamp": "18:52:34.054",
+      "frame_number": 275,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 276,
+      "timestamp": "18:52:34.255",
+      "frame_number": 276,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 277,
+      "timestamp": "18:52:34.454",
+      "frame_number": 277,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 360,
+        "0x9": 223,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 278,
+      "timestamp": "18:52:34.654",
+      "frame_number": 278,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 279,
+      "timestamp": "18:52:34.854",
+      "frame_number": 279,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 220,
+        "0xa": 227
+      }
+    },
+    {
+      "sample": 280,
+      "timestamp": "18:52:35.054",
+      "frame_number": 280,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 281,
+      "timestamp": "18:52:35.254",
+      "frame_number": 281,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 282,
+      "timestamp": "18:52:35.454",
+      "frame_number": 282,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 283,
+      "timestamp": "18:52:35.655",
+      "frame_number": 283,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 284,
+      "timestamp": "18:52:35.854",
+      "frame_number": 284,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 285,
+      "timestamp": "18:52:36.054",
+      "frame_number": 285,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 286,
+      "timestamp": "18:52:36.254",
+      "frame_number": 286,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 287,
+      "timestamp": "18:52:36.454",
+      "frame_number": 287,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 359,
+        "0x9": 222,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 288,
+      "timestamp": "18:52:36.655",
+      "frame_number": 288,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 289,
+      "timestamp": "18:52:36.854",
+      "frame_number": 289,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 290,
+      "timestamp": "18:52:37.054",
+      "frame_number": 290,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 291,
+      "timestamp": "18:52:37.254",
+      "frame_number": 291,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 284,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 292,
+      "timestamp": "18:52:37.454",
+      "frame_number": 292,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 293,
+      "timestamp": "18:52:37.654",
+      "frame_number": 293,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 294,
+      "timestamp": "18:52:37.854",
+      "frame_number": 294,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 227,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 295,
+      "timestamp": "18:52:38.054",
+      "frame_number": 295,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 355,
+        "0x9": 222,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 296,
+      "timestamp": "18:52:38.254",
+      "frame_number": 296,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 297,
+      "timestamp": "18:52:38.454",
+      "frame_number": 297,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 298,
+      "timestamp": "18:52:38.655",
+      "frame_number": 298,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 299,
+      "timestamp": "18:52:38.854",
+      "frame_number": 299,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 300,
+      "timestamp": "18:52:39.054",
+      "frame_number": 300,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 301,
+      "timestamp": "18:52:39.254",
+      "frame_number": 301,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 223,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 302,
+      "timestamp": "18:52:39.454",
+      "frame_number": 302,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 303,
+      "timestamp": "18:52:39.654",
+      "frame_number": 303,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 285,
+        "0x7": 354,
+        "0x9": 220,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 304,
+      "timestamp": "18:52:39.854",
+      "frame_number": 304,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 220,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 305,
+      "timestamp": "18:52:40.054",
+      "frame_number": 305,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 306,
+      "timestamp": "18:52:40.254",
+      "frame_number": 306,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 307,
+      "timestamp": "18:52:40.454",
+      "frame_number": 307,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 308,
+      "timestamp": "18:52:40.654",
+      "frame_number": 308,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 309,
+      "timestamp": "18:52:40.854",
+      "frame_number": 309,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 310,
+      "timestamp": "18:52:41.054",
+      "frame_number": 310,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 311,
+      "timestamp": "18:52:41.254",
+      "frame_number": 311,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 312,
+      "timestamp": "18:52:41.454",
+      "frame_number": 312,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 313,
+      "timestamp": "18:52:41.653",
+      "frame_number": 313,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 314,
+      "timestamp": "18:52:41.854",
+      "frame_number": 314,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 315,
+      "timestamp": "18:52:42.054",
+      "frame_number": 315,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 316,
+      "timestamp": "18:52:42.254",
+      "frame_number": 316,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 229,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 317,
+      "timestamp": "18:52:42.454",
+      "frame_number": 317,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 318,
+      "timestamp": "18:52:42.653",
+      "frame_number": 318,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 223,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 319,
+      "timestamp": "18:52:42.854",
+      "frame_number": 319,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 289,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 320,
+      "timestamp": "18:52:43.054",
+      "frame_number": 320,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 223,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 321,
+      "timestamp": "18:52:43.253",
+      "frame_number": 321,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 322,
+      "timestamp": "18:52:43.454",
+      "frame_number": 322,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 323,
+      "timestamp": "18:52:43.653",
+      "frame_number": 323,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 324,
+      "timestamp": "18:52:43.854",
+      "frame_number": 324,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 325,
+      "timestamp": "18:52:44.054",
+      "frame_number": 325,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 326,
+      "timestamp": "18:52:44.253",
+      "frame_number": 326,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 327,
+      "timestamp": "18:52:44.454",
+      "frame_number": 327,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 360,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 328,
+      "timestamp": "18:52:44.653",
+      "frame_number": 328,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 329,
+      "timestamp": "18:52:44.854",
+      "frame_number": 329,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 330,
+      "timestamp": "18:52:45.054",
+      "frame_number": 330,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 331,
+      "timestamp": "18:52:45.254",
+      "frame_number": 331,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 332,
+      "timestamp": "18:52:45.454",
+      "frame_number": 332,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 333,
+      "timestamp": "18:52:45.653",
+      "frame_number": 333,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 334,
+      "timestamp": "18:52:45.854",
+      "frame_number": 334,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 335,
+      "timestamp": "18:52:46.054",
+      "frame_number": 335,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 336,
+      "timestamp": "18:52:46.254",
+      "frame_number": 336,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 337,
+      "timestamp": "18:52:46.454",
+      "frame_number": 337,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 338,
+      "timestamp": "18:52:46.653",
+      "frame_number": 338,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 284,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 339,
+      "timestamp": "18:52:46.854",
+      "frame_number": 339,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 340,
+      "timestamp": "18:52:47.054",
+      "frame_number": 340,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 222,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 341,
+      "timestamp": "18:52:47.253",
+      "frame_number": 341,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 342,
+      "timestamp": "18:52:47.454",
+      "frame_number": 342,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 343,
+      "timestamp": "18:52:47.653",
+      "frame_number": 343,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 344,
+      "timestamp": "18:52:47.854",
+      "frame_number": 344,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 222,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 345,
+      "timestamp": "18:52:48.054",
+      "frame_number": 345,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 346,
+      "timestamp": "18:52:48.253",
+      "frame_number": 346,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 347,
+      "timestamp": "18:52:48.454",
+      "frame_number": 347,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 348,
+      "timestamp": "18:52:48.653",
+      "frame_number": 348,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 361,
+        "0x9": 222,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 349,
+      "timestamp": "18:52:48.854",
+      "frame_number": 349,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 283,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 350,
+      "timestamp": "18:52:49.053",
+      "frame_number": 350,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 351,
+      "timestamp": "18:52:49.253",
+      "frame_number": 351,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 352,
+      "timestamp": "18:52:49.454",
+      "frame_number": 352,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 284,
+        "0x7": 360,
+        "0x9": 221,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 353,
+      "timestamp": "18:52:49.653",
+      "frame_number": 353,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 354,
+      "timestamp": "18:52:49.854",
+      "frame_number": 354,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 283,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 355,
+      "timestamp": "18:52:50.053",
+      "frame_number": 355,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 284,
+        "0x7": 361,
+        "0x9": 228,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 356,
+      "timestamp": "18:52:50.253",
+      "frame_number": 356,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 357,
+      "timestamp": "18:52:50.454",
+      "frame_number": 357,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 358,
+      "timestamp": "18:52:50.653",
+      "frame_number": 358,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 359,
+      "timestamp": "18:52:50.854",
+      "frame_number": 359,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 222,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 360,
+      "timestamp": "18:52:51.053",
+      "frame_number": 360,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 361,
+      "timestamp": "18:52:51.253",
+      "frame_number": 361,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 354,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 362,
+      "timestamp": "18:52:51.453",
+      "frame_number": 362,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 363,
+      "timestamp": "18:52:51.653",
+      "frame_number": 363,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 353,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 364,
+      "timestamp": "18:52:51.854",
+      "frame_number": 364,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 365,
+      "timestamp": "18:52:52.053",
+      "frame_number": 365,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 366,
+      "timestamp": "18:52:52.253",
+      "frame_number": 366,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 353,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 367,
+      "timestamp": "18:52:52.454",
+      "frame_number": 367,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 368,
+      "timestamp": "18:52:52.653",
+      "frame_number": 368,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 285,
+        "0x7": 360,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 369,
+      "timestamp": "18:52:52.853",
+      "frame_number": 369,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 228,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 370,
+      "timestamp": "18:52:53.053",
+      "frame_number": 370,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 371,
+      "timestamp": "18:52:53.253",
+      "frame_number": 371,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 372,
+      "timestamp": "18:52:53.454",
+      "frame_number": 372,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 353,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 373,
+      "timestamp": "18:52:53.653",
+      "frame_number": 373,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 355,
+        "0x9": 227,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 374,
+      "timestamp": "18:52:53.853",
+      "frame_number": 374,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 375,
+      "timestamp": "18:52:54.053",
+      "frame_number": 375,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 376,
+      "timestamp": "18:52:54.253",
+      "frame_number": 376,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 377,
+      "timestamp": "18:52:54.454",
+      "frame_number": 377,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 378,
+      "timestamp": "18:52:54.653",
+      "frame_number": 378,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 354,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 379,
+      "timestamp": "18:52:54.853",
+      "frame_number": 379,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 380,
+      "timestamp": "18:52:55.053",
+      "frame_number": 380,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 381,
+      "timestamp": "18:52:55.253",
+      "frame_number": 381,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 382,
+      "timestamp": "18:52:55.452",
+      "frame_number": 382,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 383,
+      "timestamp": "18:52:55.653",
+      "frame_number": 383,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 384,
+      "timestamp": "18:52:55.853",
+      "frame_number": 384,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 360,
+        "0x9": 224,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 385,
+      "timestamp": "18:52:56.053",
+      "frame_number": 385,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 386,
+      "timestamp": "18:52:56.253",
+      "frame_number": 386,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 387,
+      "timestamp": "18:52:56.453",
+      "frame_number": 387,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 388,
+      "timestamp": "18:52:56.653",
+      "frame_number": 388,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 284,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 389,
+      "timestamp": "18:52:56.854",
+      "frame_number": 389,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 283,
+        "0x7": 353,
+        "0x9": 222,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 390,
+      "timestamp": "18:52:57.053",
+      "frame_number": 390,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 284,
+        "0x7": 353,
+        "0x9": 223,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 391,
+      "timestamp": "18:52:57.253",
+      "frame_number": 391,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 283,
+        "0x7": 359,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 392,
+      "timestamp": "18:52:57.452",
+      "frame_number": 392,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 393,
+      "timestamp": "18:52:57.653",
+      "frame_number": 393,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 289,
+        "0x7": 353,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 394,
+      "timestamp": "18:52:57.853",
+      "frame_number": 394,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 283,
+        "0x7": 354,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 395,
+      "timestamp": "18:52:58.053",
+      "frame_number": 395,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 354,
+        "0x9": 223,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 396,
+      "timestamp": "18:52:58.253",
+      "frame_number": 396,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 228,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 397,
+      "timestamp": "18:52:58.453",
+      "frame_number": 397,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 398,
+      "timestamp": "18:52:58.653",
+      "frame_number": 398,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 288,
+        "0x7": 361,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 399,
+      "timestamp": "18:52:58.853",
+      "frame_number": 399,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 400,
+      "timestamp": "18:52:59.052",
+      "frame_number": 400,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 401,
+      "timestamp": "18:52:59.253",
+      "frame_number": 401,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 402,
+      "timestamp": "18:52:59.452",
+      "frame_number": 402,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 284,
+        "0x7": 360,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 403,
+      "timestamp": "18:52:59.653",
+      "frame_number": 403,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 404,
+      "timestamp": "18:52:59.853",
+      "frame_number": 404,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 405,
+      "timestamp": "18:53:00.052",
+      "frame_number": 405,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 224,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 406,
+      "timestamp": "18:53:00.253",
+      "frame_number": 406,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 359,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 407,
+      "timestamp": "18:53:00.453",
+      "frame_number": 407,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 408,
+      "timestamp": "18:53:00.653",
+      "frame_number": 408,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 288,
+        "0x7": 353,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 409,
+      "timestamp": "18:53:00.853",
+      "frame_number": 409,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 410,
+      "timestamp": "18:53:01.053",
+      "frame_number": 410,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 228,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 411,
+      "timestamp": "18:53:01.252",
+      "frame_number": 411,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 412,
+      "timestamp": "18:53:01.452",
+      "frame_number": 412,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 289,
+        "0x7": 356,
+        "0x9": 228,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 413,
+      "timestamp": "18:53:01.653",
+      "frame_number": 413,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 353,
+        "0x9": 226,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 414,
+      "timestamp": "18:53:01.852",
+      "frame_number": 414,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 415,
+      "timestamp": "18:53:02.053",
+      "frame_number": 415,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 227,
+        "0xa": 227
+      }
+    },
+    {
+      "sample": 416,
+      "timestamp": "18:53:02.253",
+      "frame_number": 416,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 285,
+        "0x7": 353,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 417,
+      "timestamp": "18:53:02.452",
+      "frame_number": 417,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 418,
+      "timestamp": "18:53:02.653",
+      "frame_number": 418,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 419,
+      "timestamp": "18:53:02.852",
+      "frame_number": 419,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 354,
+        "0x9": 224,
+        "0xa": 225
+      }
+    },
+    {
+      "sample": 420,
+      "timestamp": "18:53:03.053",
+      "frame_number": 420,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 286,
+        "0x7": 353,
+        "0x9": 231,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 421,
+      "timestamp": "18:53:03.253",
+      "frame_number": 421,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 422,
+      "timestamp": "18:53:03.452",
+      "frame_number": 422,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 284,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 423,
+      "timestamp": "18:53:03.653",
+      "frame_number": 423,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 285,
+        "0x7": 354,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 424,
+      "timestamp": "18:53:03.852",
+      "frame_number": 424,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 223,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 425,
+      "timestamp": "18:53:04.053",
+      "frame_number": 425,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 222,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 426,
+      "timestamp": "18:53:04.253",
+      "frame_number": 426,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 427,
+      "timestamp": "18:53:04.452",
+      "frame_number": 427,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 286,
+        "0x7": 352,
+        "0x9": 223,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 428,
+      "timestamp": "18:53:04.653",
+      "frame_number": 428,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 229,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 429,
+      "timestamp": "18:53:04.852",
+      "frame_number": 429,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 430,
+      "timestamp": "18:53:05.053",
+      "frame_number": 430,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 431,
+      "timestamp": "18:53:05.253",
+      "frame_number": 431,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 432,
+      "timestamp": "18:53:05.453",
+      "frame_number": 432,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 284,
+        "0x7": 355,
+        "0x9": 228,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 433,
+      "timestamp": "18:53:05.653",
+      "frame_number": 433,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 228,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 434,
+      "timestamp": "18:53:05.852",
+      "frame_number": 434,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 222,
+        "0xa": 226
+      }
+    },
+    {
+      "sample": 435,
+      "timestamp": "18:53:06.052",
+      "frame_number": 435,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 227,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 436,
+      "timestamp": "18:53:06.253",
+      "frame_number": 436,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 287,
+        "0x7": 353,
+        "0x9": 227,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 437,
+      "timestamp": "18:53:06.452",
+      "frame_number": 437,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 228,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 438,
+      "timestamp": "18:53:06.653",
+      "frame_number": 438,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 286,
+        "0x7": 360,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 439,
+      "timestamp": "18:53:06.852",
+      "frame_number": 439,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 440,
+      "timestamp": "18:53:07.053",
+      "frame_number": 440,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 286,
+        "0x7": 360,
+        "0x9": 226,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 441,
+      "timestamp": "18:53:07.253",
+      "frame_number": 441,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 228,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 442,
+      "timestamp": "18:53:07.453",
+      "frame_number": 442,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 443,
+      "timestamp": "18:53:07.653",
+      "frame_number": 443,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 220,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 444,
+      "timestamp": "18:53:07.852",
+      "frame_number": 444,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 228,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 445,
+      "timestamp": "18:53:08.053",
+      "frame_number": 445,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 287,
+        "0x7": 359,
+        "0x9": 225,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 446,
+      "timestamp": "18:53:08.253",
+      "frame_number": 446,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 284,
+        "0x7": 358,
+        "0x9": 227,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 447,
+      "timestamp": "18:53:08.452",
+      "frame_number": 447,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 448,
+      "timestamp": "18:53:08.653",
+      "frame_number": 448,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 229,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 449,
+      "timestamp": "18:53:08.852",
+      "frame_number": 449,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 450,
+      "timestamp": "18:53:09.052",
+      "frame_number": 450,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 133,
+        "0x6": 284,
+        "0x7": 360,
+        "0x9": 223,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 451,
+      "timestamp": "18:53:09.252",
+      "frame_number": 451,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 452,
+      "timestamp": "18:53:09.452",
+      "frame_number": 452,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 354,
+        "0x9": 231,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 453,
+      "timestamp": "18:53:09.652",
+      "frame_number": 453,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 224,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 454,
+      "timestamp": "18:53:09.852",
+      "frame_number": 454,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 284,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 455,
+      "timestamp": "18:53:10.053",
+      "frame_number": 455,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 456,
+      "timestamp": "18:53:10.252",
+      "frame_number": 456,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 125,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 222,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 457,
+      "timestamp": "18:53:10.452",
+      "frame_number": 457,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 458,
+      "timestamp": "18:53:10.652",
+      "frame_number": 458,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 221,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 459,
+      "timestamp": "18:53:10.851",
+      "frame_number": 459,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 288,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 460,
+      "timestamp": "18:53:11.052",
+      "frame_number": 460,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 288,
+        "0x7": 361,
+        "0x9": 226,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 461,
+      "timestamp": "18:53:11.252",
+      "frame_number": 461,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 131,
+        "0x6": 288,
+        "0x7": 358,
+        "0x9": 228,
+        "0xa": 233
+      }
+    },
+    {
+      "sample": 462,
+      "timestamp": "18:53:11.452",
+      "frame_number": 462,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 463,
+      "timestamp": "18:53:11.653",
+      "frame_number": 463,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 284,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 464,
+      "timestamp": "18:53:11.852",
+      "frame_number": 464,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 128,
+        "0x6": 286,
+        "0x7": 358,
+        "0x9": 227,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 465,
+      "timestamp": "18:53:12.052",
+      "frame_number": 465,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 283,
+        "0x7": 356,
+        "0x9": 229,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 466,
+      "timestamp": "18:53:12.252",
+      "frame_number": 466,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 356,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 467,
+      "timestamp": "18:53:12.452",
+      "frame_number": 467,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 137,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 468,
+      "timestamp": "18:53:12.653",
+      "frame_number": 468,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 288,
+        "0x7": 356,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 469,
+      "timestamp": "18:53:12.852",
+      "frame_number": 469,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 134,
+        "0x6": 287,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 470,
+      "timestamp": "18:53:13.052",
+      "frame_number": 470,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 284,
+        "0x7": 359,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 471,
+      "timestamp": "18:53:13.251",
+      "frame_number": 471,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 286,
+        "0x7": 355,
+        "0x9": 226,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 472,
+      "timestamp": "18:53:13.451",
+      "frame_number": 472,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 126,
+        "0x6": 287,
+        "0x7": 352,
+        "0x9": 221,
+        "0xa": 232
+      }
+    },
+    {
+      "sample": 473,
+      "timestamp": "18:53:13.653",
+      "frame_number": 473,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 286,
+        "0x7": 359,
+        "0x9": 228,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 474,
+      "timestamp": "18:53:13.852",
+      "frame_number": 474,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 138,
+        "0x6": 287,
+        "0x7": 356,
+        "0x9": 227,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 475,
+      "timestamp": "18:53:14.053",
+      "frame_number": 475,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 476,
+      "timestamp": "18:53:14.252",
+      "frame_number": 476,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 129,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 226,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 477,
+      "timestamp": "18:53:14.452",
+      "frame_number": 477,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 284,
+        "0x7": 353,
+        "0x9": 229,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 478,
+      "timestamp": "18:53:14.651",
+      "frame_number": 478,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 127,
+        "0x6": 287,
+        "0x7": 358,
+        "0x9": 226,
+        "0xa": 230
+      }
+    },
+    {
+      "sample": 479,
+      "timestamp": "18:53:14.852",
+      "frame_number": 479,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 286,
+        "0x7": 357,
+        "0x9": 221,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 480,
+      "timestamp": "18:53:15.052",
+      "frame_number": 480,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 135,
+        "0x6": 285,
+        "0x7": 358,
+        "0x9": 223,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 481,
+      "timestamp": "18:53:15.252",
+      "frame_number": 481,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 229
+      }
+    },
+    {
+      "sample": 482,
+      "timestamp": "18:53:15.452",
+      "frame_number": 482,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 283,
+        "0x7": 361,
+        "0x9": 228,
+        "0xa": 228
+      }
+    },
+    {
+      "sample": 483,
+      "timestamp": "18:53:15.652",
+      "frame_number": 483,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 132,
+        "0x6": 285,
+        "0x7": 357,
+        "0x9": 225,
+        "0xa": 231
+      }
+    },
+    {
+      "sample": 484,
+      "timestamp": "18:53:15.852",
+      "frame_number": 484,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 130,
+        "0x6": 285,
+        "0x7": 356,
+        "0x9": 228,
+        "0xa": 234
+      }
+    },
+    {
+      "sample": 485,
+      "timestamp": "18:53:16.006",
+      "frame_number": 485,
+      "num_anchors": 5,
+      "distances": {
+        "0x4": 136,
+        "0x6": 291,
+        "0x7": 366,
+        "0x9": 224,
+        "0xa": 235
+      }
+    }
+  ]
+}
