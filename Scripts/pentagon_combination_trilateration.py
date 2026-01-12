@@ -14,8 +14,8 @@ INPUT_JSON = "(100,100)_C_08_01_2026.json"
 OUTPUT_JSON = "uwb_combination_trilateration.json"
 
 MIN_ANCHORS = 3
-MAX_RESIDUAL = 30.0   # cm, per-anchor residual check
-MAX_SPREAD = 50.0     # cm, reject wildly spread solutions
+MAX_RESIDUAL = 10.0   # cm, per-anchor residual check
+MAX_SPREAD = 15.0     # cm, reject wildly spread solutions
 
 # ============================================================
 # SAFETY
