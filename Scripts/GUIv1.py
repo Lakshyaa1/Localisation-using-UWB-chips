@@ -18,7 +18,7 @@ import os
 # ============================================================
 DATA_MODE = "json"
 
-JSON_FILE = "/home/lakshya/Localisation-using-UWB-chips/Localisation_Data/(100,200)_C_08_01_2026.json"
+JSON_FILE = "/home/lakshya/Localisation-using-UWB-chips/Localisation_Data/(100,100)_C_08_01_2026.json"
 
 # ============================================================
 # SERIAL CONFIG (used only in serial mode)
