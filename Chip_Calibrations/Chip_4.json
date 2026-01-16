@@ -1,0 +1,517 @@
+{
+    "LUT": {
+        "PDOA_LUT0.DATA": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "PDOA_LUT1.DATA": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ]
+    },
+    "calibrations": {
+        "alternate_pulse_shape": "0x0",
+        "ant0.ch5.ant_delay": "0x3ff4",
+        "ant0.ch5.pa_gain_offset": "0x80",
+        "ant0.ch5.pg_count": "0xac",
+        "ant0.ch5.pg_delay": "0x34",
+        "ant0.ch5.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame0.tx_power_index": "0x19191919",
+        "ant0.ch5.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame1.tx_power_index": "0x0",
+        "ant0.ch5.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame2.tx_power_index": "0x0",
+        "ant0.ch5.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame3.tx_power_index": "0x0",
+        "ant0.ch5.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame4.tx_power_index": "0x0",
+        "ant0.ch5.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame5.tx_power_index": "0x0",
+        "ant0.ch5.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame6.tx_power_index": "0x0",
+        "ant0.ch5.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant0.ch5.ref_frame7.tx_power_index": "0x0",
+        "ant0.ch5.rssi_offset_q3": "0x0",
+        "ant0.ch5.rx_bypass_delay_offset": "0x0",
+        "ant0.ch5.tx_bypass_delay_offset": "0x0",
+        "ant0.ch9.ant_delay": "0x3fbc",
+        "ant0.ch9.pa_gain_offset": "0x80",
+        "ant0.ch9.pg_count": "0xac",
+        "ant0.ch9.pg_delay": "0x34",
+        "ant0.ch9.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame0.tx_power_index": "0x18181818",
+        "ant0.ch9.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame1.tx_power_index": "0x0",
+        "ant0.ch9.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame2.tx_power_index": "0x0",
+        "ant0.ch9.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame3.tx_power_index": "0x0",
+        "ant0.ch9.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame4.tx_power_index": "0x0",
+        "ant0.ch9.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame5.tx_power_index": "0x0",
+        "ant0.ch9.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame6.tx_power_index": "0x0",
+        "ant0.ch9.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant0.ch9.ref_frame7.tx_power_index": "0x0",
+        "ant0.ch9.rssi_offset_q3": "0x0",
+        "ant0.ch9.rx_bypass_delay_offset": "0x0",
+        "ant0.ch9.tx_bypass_delay_offset": "0x0",
+        "ant0.ext_sw_cfg": "0x0",
+        "ant0.lna": "0x0",
+        "ant0.pa": "0x0",
+        "ant0.port": "0x1",
+        "ant0.transceiver": "0x0",
+        "ant1.ch5.ant_delay": "0x3ff4",
+        "ant1.ch5.pa_gain_offset": "0x80",
+        "ant1.ch5.pg_count": "0x0",
+        "ant1.ch5.pg_delay": "0x34",
+        "ant1.ch5.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame0.tx_power_index": "0x0",
+        "ant1.ch5.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame1.tx_power_index": "0x0",
+        "ant1.ch5.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame2.tx_power_index": "0x0",
+        "ant1.ch5.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame3.tx_power_index": "0x0",
+        "ant1.ch5.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame4.tx_power_index": "0x0",
+        "ant1.ch5.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame5.tx_power_index": "0x0",
+        "ant1.ch5.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame6.tx_power_index": "0x0",
+        "ant1.ch5.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant1.ch5.ref_frame7.tx_power_index": "0x0",
+        "ant1.ch5.rssi_offset_q3": "0x0",
+        "ant1.ch5.rx_bypass_delay_offset": "0x0",
+        "ant1.ch5.tx_bypass_delay_offset": "0x0",
+        "ant1.ch9.ant_delay": "0x3fbc",
+        "ant1.ch9.pa_gain_offset": "0x80",
+        "ant1.ch9.pg_count": "0x0",
+        "ant1.ch9.pg_delay": "0x34",
+        "ant1.ch9.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame0.tx_power_index": "0x0",
+        "ant1.ch9.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame1.tx_power_index": "0x0",
+        "ant1.ch9.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame2.tx_power_index": "0x0",
+        "ant1.ch9.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame3.tx_power_index": "0x0",
+        "ant1.ch9.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame4.tx_power_index": "0x0",
+        "ant1.ch9.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame5.tx_power_index": "0x0",
+        "ant1.ch9.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame6.tx_power_index": "0x0",
+        "ant1.ch9.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant1.ch9.ref_frame7.tx_power_index": "0x0",
+        "ant1.ch9.rssi_offset_q3": "0x0",
+        "ant1.ch9.rx_bypass_delay_offset": "0x0",
+        "ant1.ch9.tx_bypass_delay_offset": "0x0",
+        "ant1.ext_sw_cfg": "0x0",
+        "ant1.lna": "0x0",
+        "ant1.pa": "0x0",
+        "ant1.port": "0x1",
+        "ant1.transceiver": "0x1",
+        "ant2.ch5.ant_delay": "0x4015",
+        "ant2.ch5.pa_gain_offset": "0x80",
+        "ant2.ch5.pg_count": "0x0",
+        "ant2.ch5.pg_delay": "0x34",
+        "ant2.ch5.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame0.tx_power_index": "0x0",
+        "ant2.ch5.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame1.tx_power_index": "0x0",
+        "ant2.ch5.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame2.tx_power_index": "0x0",
+        "ant2.ch5.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame3.tx_power_index": "0x0",
+        "ant2.ch5.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame4.tx_power_index": "0x0",
+        "ant2.ch5.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame5.tx_power_index": "0x0",
+        "ant2.ch5.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame6.tx_power_index": "0x0",
+        "ant2.ch5.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant2.ch5.ref_frame7.tx_power_index": "0x0",
+        "ant2.ch5.rssi_offset_q3": "0x0",
+        "ant2.ch5.rx_bypass_delay_offset": "0x0",
+        "ant2.ch5.tx_bypass_delay_offset": "0x0",
+        "ant2.ch9.ant_delay": "0x3fbc",
+        "ant2.ch9.pa_gain_offset": "0x80",
+        "ant2.ch9.pg_count": "0x0",
+        "ant2.ch9.pg_delay": "0x34",
+        "ant2.ch9.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame0.tx_power_index": "0x0",
+        "ant2.ch9.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame1.tx_power_index": "0x0",
+        "ant2.ch9.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame2.tx_power_index": "0x0",
+        "ant2.ch9.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame3.tx_power_index": "0x0",
+        "ant2.ch9.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame4.tx_power_index": "0x0",
+        "ant2.ch9.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame5.tx_power_index": "0x0",
+        "ant2.ch9.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame6.tx_power_index": "0x0",
+        "ant2.ch9.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant2.ch9.ref_frame7.tx_power_index": "0x0",
+        "ant2.ch9.rssi_offset_q3": "0x0",
+        "ant2.ch9.rx_bypass_delay_offset": "0x0",
+        "ant2.ch9.tx_bypass_delay_offset": "0x0",
+        "ant2.ext_sw_cfg": "0x0",
+        "ant2.lna": "0x0",
+        "ant2.pa": "0x0",
+        "ant2.port": "0xf",
+        "ant2.transceiver": "0x0",
+        "ant3.ch5.ant_delay": "0x4015",
+        "ant3.ch5.pa_gain_offset": "0x80",
+        "ant3.ch5.pg_count": "0x0",
+        "ant3.ch5.pg_delay": "0x34",
+        "ant3.ch5.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame0.tx_power_index": "0x0",
+        "ant3.ch5.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame1.tx_power_index": "0x0",
+        "ant3.ch5.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame2.tx_power_index": "0x0",
+        "ant3.ch5.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame3.tx_power_index": "0x0",
+        "ant3.ch5.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame4.tx_power_index": "0x0",
+        "ant3.ch5.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame5.tx_power_index": "0x0",
+        "ant3.ch5.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame6.tx_power_index": "0x0",
+        "ant3.ch5.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant3.ch5.ref_frame7.tx_power_index": "0x0",
+        "ant3.ch5.rssi_offset_q3": "0x0",
+        "ant3.ch5.rx_bypass_delay_offset": "0x0",
+        "ant3.ch5.tx_bypass_delay_offset": "0x0",
+        "ant3.ch9.ant_delay": "0x3fbc",
+        "ant3.ch9.pa_gain_offset": "0x80",
+        "ant3.ch9.pg_count": "0x0",
+        "ant3.ch9.pg_delay": "0x34",
+        "ant3.ch9.ref_frame0.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame0.tx_power_index": "0x0",
+        "ant3.ch9.ref_frame1.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame1.tx_power_index": "0x0",
+        "ant3.ch9.ref_frame2.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame2.tx_power_index": "0x0",
+        "ant3.ch9.ref_frame3.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame3.tx_power_index": "0x0",
+        "ant3.ch9.ref_frame4.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame4.tx_power_index": "0x0",
+        "ant3.ch9.ref_frame5.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame5.tx_power_index": "0x0",
+        "ant3.ch9.ref_frame6.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame6.tx_power_index": "0x0",
+        "ant3.ch9.ref_frame7.max_gating_gain": "0xffffffff",
+        "ant3.ch9.ref_frame7.tx_power_index": "0x0",
+        "ant3.ch9.rssi_offset_q3": "0x0",
+        "ant3.ch9.rx_bypass_delay_offset": "0x0",
+        "ant3.ch9.tx_bypass_delay_offset": "0x0",
+        "ant3.ext_sw_cfg": "0x0",
+        "ant3.lna": "0x0",
+        "ant3.pa": "0x0",
+        "ant3.port": "0xf",
+        "ant3.transceiver": "0x0",
+        "ant_pair0.ant_paths": "0xffff",
+        "ant_pair0.axis": "0x0",
+        "ant_pair0.ch5.pdoa.interval_shift": "0x0",
+        "ant_pair0.ch5.pdoa.lut_id": "0xff",
+        "ant_pair0.ch5.pdoa.offset": "0x0",
+        "ant_pair0.ch9.pdoa.interval_shift": "0x0",
+        "ant_pair0.ch9.pdoa.lut_id": "0xff",
+        "ant_pair0.ch9.pdoa.offset": "0x0",
+        "ant_set0.nb_rx_ants": "0x1",
+        "ant_set0.rx_ants": "0xffff01",
+        "ant_set0.rx_ants_are_pairs": "0x0",
+        "ant_set0.tx_ant_path": "0x0",
+        "ant_set0.tx_power_control": "0x1",
+        "ch5.pll_locking_code": "0x0",
+        "ch5.wifi_coex_enabled": "0x1",
+        "ch9.pll_locking_code": "0x0",
+        "ch9.wifi_coex_enabled": "0x1",
+        "debug.pa_enabled": "0x0",
+        "debug.pll_bias_trim": "0x4",
+        "debug.rx_segment": "0xff",
+        "debug.tx_power": "0xfdfdfdfd",
+        "dual_rx_auto.accum_period": "0x1e",
+        "dual_rx_auto.error_rate_thres": "0x32",
+        "dual_rx_auto.rssi_diff_thres": "0x2",
+        "experimental.mac.session_scheduler.id": "0x0",
+        "ip_sts_sanity_thres_q2": "0x0",
+        "pdoa_lut0.data": "PDOA_LUT0.DATA",
+        "pdoa_lut1.data": "PDOA_LUT1.DATA",
+        "ref_frame0.payload_size": "0x7f",
+        "ref_frame0.phy_cfg": "0x072144",
+        "ref_frame1.payload_size": "0xffff",
+        "ref_frame1.phy_cfg": "0xffffff",
+        "ref_frame2.payload_size": "0xffff",
+        "ref_frame2.phy_cfg": "0xffffff",
+        "ref_frame3.payload_size": "0xffff",
+        "ref_frame3.phy_cfg": "0xffffff",
+        "ref_frame4.payload_size": "0xffff",
+        "ref_frame4.phy_cfg": "0xffffff",
+        "ref_frame5.payload_size": "0xffff",
+        "ref_frame5.phy_cfg": "0xffffff",
+        "ref_frame6.payload_size": "0xffff",
+        "ref_frame6.phy_cfg": "0xffffff",
+        "ref_frame7.payload_size": "0xffff",
+        "ref_frame7.phy_cfg": "0xffffff",
+        "restricted_channels": "0x0",
+        "rf_noise_offset": "0xf9",
+        "rx_diag_config.cir_fp_tap_offset": "0x8",
+        "rx_diag_config.cir_n_taps": "0x10",
+        "wifi_coex_max_grant_duration": "0x0",
+        "wifi_coex_min_inactive_duration": "0x0",
+        "wifi_coex_mode": "0x0",
+        "wifi_coex_time_gap": "0x0",
+        "wifi_sw_cfg": "0x0",
+        "xtal_trim": "0x19"
+    }
+}
